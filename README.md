@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there <img src="./assets/images/hi.gif" width="25"/></h3>
+<h3 align="center"> Hi there <img src="https://raw.githubusercontent.com/ishanbagchi/ishanbagchi/master/assets/images/hi.gif" width="25"/></h3>
 
 <p align="center">
 I'm Ishan, a self-motivated tech enthusiast and full stack web developer.
@@ -41,7 +41,7 @@ My Profiles
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishan-bagchi&show_icons=true&count_private=true&theme=calm&hide=stars"/>
 </p>
 
-![Footer Animation](./assets/images/footer.svg)
+![Footer Animation](https://raw.githubusercontent.com/ishanbagchi/ishanbagchi/master/assets/images/footer.svg)
 
 [//]: <> (calm: {
 title_color: "e07a5f",
