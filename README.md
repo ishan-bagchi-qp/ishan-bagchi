@@ -38,7 +38,7 @@ My Profiles
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishan-bagchi&show_icons=true&count_private=true&theme=calm&hide=stars"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishan-bagchi-qp&show_icons=true&count_private=true&theme=calm&hide=stars"/>
 </p>
 
 ![Footer Animation](https://raw.githubusercontent.com/ishanbagchi/ishanbagchi/master/assets/images/footer.svg)
